@@ -1,0 +1,223 @@
+.nav-item a{
+    color: black !important;
+}
+
+
+.navbar-back{
+    background: none !important;
+}
+
+
+
+.down-btn {
+    background: #081158 !important;
+    border-radius: 20px;
+    border: solid 2px #081158;
+    transition: 0.5s;
+}
+
+.down-btn a{
+   color: #ffc107 !important;
+}
+
+.down-btn:hover {
+    background: white !important;
+    border: solid 2px lightgray;
+    border-radius: 20px;
+    color: #081158 !important;
+}
+
+
+.down-btn:hover  a{
+    color: #081158 !important;
+}
+
+
+
+.me-6{
+    margin-left: 6rem !important;
+}
+
+
+
+
+.first{
+    width: 100%;
+    display: flex;
+    margin-bottom: 150px;
+
+}
+
+
+.content{
+   margin: auto;
+
+}
+
+.content img{
+    width: 624px;
+    height: 495px;
+    margin-top: 90px;
+
+}
+
+
+
+.card-det{
+    width: 35% !important;
+    border: none;
+}
+
+
+.card-det p{
+    margin-bottom: 30px;
+}
+
+
+.card-det a{
+    background-color: #081158;
+    color: white;
+    padding: 15px;
+    border-radius: 30px;
+    text-decoration: none;
+    border: solid 2px #081158;
+}
+
+
+.card-det h6{
+    color: #FBB244 !important;
+    background-color: rgba(251, 178, 68, 0.2);
+    width: 31%;
+    padding: 2px;
+    border-radius: 20px;
+}
+
+
+.secnd{
+    color: #081158 !important;
+    background-color: white !important;
+    border: solid 2px #081158;
+    padding: 15px;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+
+
+.card-feat{
+    width: 31%;
+    text-align: center;
+    border: none;
+    margin: auto;
+    margin-bottom: 60px;
+}
+
+
+.card-feat h1{
+    font-weight: bolder;
+    color: #081158;
+}
+
+
+.card-feat h6{
+    color: #FBB244 !important;
+    background-color: rgba(251, 178, 68, 0.2);
+    width: 25%;
+    margin: auto;
+    border-radius: 30px;
+    padding: 2px;
+}
+
+
+.mouris{
+    display: flex;
+}
+
+
+.sizes{
+    width: 25%;
+    color: #081158 !important;
+    margin-bottom: 130px;
+}
+
+
+
+
+.about img{
+    width: 732px !important;
+    height: 465px !important;
+}
+
+
+.about h6{
+    width: 17% !important;
+}
+
+
+
+.cont-serv{
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    margin: auto;
+    justify-content: space-between;
+    margin-bottom: 170px;
+    
+}
+
+
+
+.cont-serv-size{
+    width: 47%;
+    text-align: start;
+    border: solid lightgrey 1px;
+    margin-bottom: 30px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.test{
+    width: 65% !important;
+}
+
+
+.test h6{
+    width: 15% !important;
+}
+
+
+
+
+.test-cont{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    
+}
+
+
+.test-cont-size{
+    margin-left: 30px;
+}
+
+
+.test-info{
+    display: flex;
+    margin-left: 10px;
+    margin-top: 40px;
+}
+
+.test-info p{
+    
+    margin-left: 20px;
+}
